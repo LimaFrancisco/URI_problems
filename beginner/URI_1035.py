@@ -11,3 +11,5 @@ entry = int(input())
 
 if entry in ddd:
     print(ddd[entry])
+else:
+    print("DDD nao cadastrado")
